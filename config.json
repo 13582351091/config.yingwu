@@ -24,6 +24,6 @@
         "skuId": "c75ef4c4ed7a11eda1175254001e7c00",
         "buyLink":"https://afdian.net/order/create?product_type=1&plan_id=c75c49c2ed7a11eda3fa5254001e7c00&sku=%5B%7B%22sku_id%22%3A%22c75ef4c4ed7a11eda1175254001e7c00%22,%22count%22%3A1%7D%5D"
     },
-    "api_key":"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",
-    "proxy_url":"https://api.openai.com"
+    "api_key":"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",
+    "proxy_url":"https://api.yingwu.lol"
 }
